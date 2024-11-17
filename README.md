@@ -94,5 +94,8 @@ v.	Analog simulation by spectre
  
 ![image](https://github.com/user-attachments/assets/5da427f7-f237-434d-ba34-ab69681a7560)
 
+
+
+
 ## Results:
 The design and implementation of the 1-bit full adder using Cadence EDA tools were successfully completed. The simulation results verified the correct operation of the full adder, with accurate sum and carry outputs for all input combinations.
